@@ -1,3 +1,3 @@
 var os= require('os');
 
-console.log('Platform: ' + os.Platform();
+console.log('Platform: ' + os.Platform());
